@@ -1,0 +1,22 @@
+aaaaa bbbbb
+aaaaa bbbbc
+aaabb bbbbc
+aaaaa aaaaa
+aaaa bbbbb
+aaaaaa bbbb
+aaaaa bbbb
+aaaaa bbbbbb
+%%&*( 01234
+aaaaa
+		
+&^%$# *&^%$
+aabbc lmdd
+----- ~~~~~
+||||| &&&&&
+""""" '''''
+NULL 00000
+aaaab bbbbc ddddd
+bbbba bbbbba
+abbbb abbbb
+aabbb acbbb
+bbbcc bbbca
