@@ -1,0 +1,64 @@
+Grading at Sun Apr  5 12:50:53 UTC 2020
+**Testing broken implementation 10 **
+-------------------------------------
+
+Failed on testing 2^3=8
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+Failed on testing 77^1=77
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+Failed on testing 0^1=0
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+Failed on testing 0^1=0
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+Failed on testing 0^0=1
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+Failed on testing 2^31
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+Failed on testing 1^31=1
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+Failed on testing 0^1=0
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+Failed on testing 0^1=0
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+Failed on testing 1^31=1
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+Failed on testing 1^31=1
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All tests were ok.
+
+
+Overall Grade: PASSED
